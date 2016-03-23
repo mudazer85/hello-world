@@ -1,1 +1,3 @@
 This is a newly added text file to my local repo
+
+text added and updated to newly created branch
